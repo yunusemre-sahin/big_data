@@ -1,0 +1,8 @@
+confluent-kafka
+pyspark
+SQLAlchemy
+pg8000
+streamlit
+pandas
+faker
+altair
